@@ -1,0 +1,16 @@
+c:\users\yyhas\onedrive\belgeler\visual studio 2013\Projects\KartSaglik\KartSaglik\bin\Debug\KartSaglik.exe.config
+c:\users\yyhas\onedrive\belgeler\visual studio 2013\Projects\KartSaglik\KartSaglik\bin\Debug\KartSaglik.exe
+c:\users\yyhas\onedrive\belgeler\visual studio 2013\Projects\KartSaglik\KartSaglik\bin\Debug\KartSaglik.pdb
+c:\users\yyhas\onedrive\belgeler\visual studio 2013\Projects\KartSaglik\KartSaglik\obj\Debug\KartSaglik.Form1.resources
+c:\users\yyhas\onedrive\belgeler\visual studio 2013\Projects\KartSaglik\KartSaglik\obj\Debug\KartSaglik.Form2.resources
+c:\users\yyhas\onedrive\belgeler\visual studio 2013\Projects\KartSaglik\KartSaglik\obj\Debug\KartSaglik.Properties.Resources.resources
+c:\users\yyhas\onedrive\belgeler\visual studio 2013\Projects\KartSaglik\KartSaglik\obj\Debug\KartSaglik.csproj.GenerateResource.Cache
+c:\users\yyhas\onedrive\belgeler\visual studio 2013\Projects\KartSaglik\KartSaglik\obj\Debug\KartSaglik.exe
+c:\users\yyhas\onedrive\belgeler\visual studio 2013\Projects\KartSaglik\KartSaglik\obj\Debug\KartSaglik.pdb
+C:\Users\yyhas\onedrive\belgeler\visual studio 2013\Projects\KartSaglik\KartSaglik\obj\Debug\KartSaglik.csprojResolveAssemblyReference.cache
+C:\Users\yyhas\onedrive\belgeler\visual studio 2013\Projects\KartSaglik\KartSaglik\bin\Debug\FireSharp.dll
+C:\Users\yyhas\onedrive\belgeler\visual studio 2013\Projects\KartSaglik\KartSaglik\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\yyhas\onedrive\belgeler\visual studio 2013\Projects\KartSaglik\KartSaglik\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yyhas\onedrive\belgeler\visual studio 2013\Projects\KartSaglik\KartSaglik\bin\Debug\RestSharp.dll
+C:\Users\yyhas\onedrive\belgeler\visual studio 2013\Projects\KartSaglik\KartSaglik\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yyhas\onedrive\belgeler\visual studio 2013\Projects\KartSaglik\KartSaglik\bin\Debug\RestSharp.xml
